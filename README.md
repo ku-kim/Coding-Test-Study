@@ -3,7 +3,7 @@
 
 ## 사용법
 ```bash
-# 1. 개인 repo에 저장소를 Fork 한다.
+# 1. 저장소를 Fork 한다.
 
 # 2. Fork한 저장소를 Clone 한다
 git clone git@github.com:[개인아이디]/Coding-Test-Study.git
@@ -14,12 +14,13 @@ cp -r Quiz Submit/[제출id] # 퀴즈 폴더 복사와 이름 변경
 
 # 4. 문제 하나당 폴더 하나를 만든다. 
 ## e.g. Stack_Queue/기능개발
-mkdir Submit/[제출id]Stack_queue/기능개발
+mkdir Submit/[제출id]/Stack_queue/기능개발
 
 # 5. 파일명은 solution.py 으로 통일한다.
 ## e.g. Stack_queue/기능개발/solution.py
 
 # 6. 문제를 다 푼 후 PR을 보낸다.
+## 주제별 브랜치를 생성하여 PR
 ## 브랜치명 : "주제-문제수-id", e.g. "Stack_Queue-1-kukim" 
 ```
 
