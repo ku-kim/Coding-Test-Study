@@ -86,7 +86,7 @@ mkdir Submit/[제출id]/Stack_queue/기능개발
 - leet = [leet code](https://leetcode.com/)
 - boj = [백준 온라인 저지](https://www.acmicpc.net/)
 
-난이도는 플랫폼에서 표기하고 있는 명칭을 그대로 사용합니다.(21.8.31 기준)
+난이도는 플랫폼에서 표기하고 있는 명칭을 그대로 사용합니다. (2021.8.31 기준)
 - 백준의 경우 40% 는 제출자 대비 정답 비율입니다.
 
 ## reference
