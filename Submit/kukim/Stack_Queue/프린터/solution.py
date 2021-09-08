@@ -1,18 +1,20 @@
 from typing import List
-#from collections import deque
+from collections import deque
 
 def solution(priorities: List[int], location: int):
-    queue = [[k, v] for k,v in enumerate(priorities)]
-    answer = []
+    answer = 0
+    queue = deque([v,k] for k,v in enumerate(priorities))
+    
     while queue:
-        if queue[0][1] == max(queue, key = lambda x: x[1])[1]:
-            answer.append(queue.pop(0))
+        item = queue.popleft()
+        if item[0] < max(queue)[0]:
+            queue.append(item)
         else:
-            queue.append(queue.pop(0))
-    for i, values in enumerate(answer):
-        if values[0] == location + 1:
-            return i
-    # 미완성
+            answer += 1
+            if item[1] == location:
+                break
+    return answer
+
 priorities = [2, 1, 3, 2]	
 location = 2
 print(solution(priorities, location))
