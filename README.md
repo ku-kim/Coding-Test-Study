@@ -47,6 +47,8 @@ mkdir Submit/[제출id]/Stack_queue/기능개발
 | `자료구조` | `Heap` | [디스크 컨트롤러(pro)](https://programmers.co.kr/learn/courses/30/lessons/42627) | ⭐️⭐️⭐️ (lv3) | 
 | `자료구조` | `Heap` | [이중우선순위큐(pro)](https://programmers.co.kr/learn/courses/30/lessons/42628) | ⭐️⭐️⭐️ (lv3) | 
 | `자료구조` | `Heap` | [배열의 K번째 큰 요소(leet)](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ⭐️⭐️ (Medium) | 
+| `자료구조` | `Heap` | [K Closest Points to Origin(leet)](https://leetcode.com/problems/k-closest-points-to-origin/) | ⭐️⭐️ (Medium) | 
+| `자료구조` | `Heap` | [Reduce Array Size to The Half(leet)](https://leetcode.com/problems/reduce-array-size-to-the-half/) | ⭐️⭐️ (Medium) | 
 | `알고리즘` | `Brute Force(완전탐색)` | [모의고사(pro)](https://programmers.co.kr/learn/courses/30/lessons/42840) | ⭐️ (lv1) | 
 | `알고리즘` | `Brute Force(완전탐색)` | [소수 찾기(pro)](https://programmers.co.kr/learn/courses/30/lessons/42839) | ⭐️⭐️ (lv2) | 
 | `알고리즘` | `Brute Force(완전탐색)` | [카펫(pro)](https://programmers.co.kr/learn/courses/30/lessons/42842) | ⭐️⭐️ (lv2) | 
