@@ -1,6 +1,6 @@
 from heapq import heappush, heappop
 
-def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
+def kClosest(points, k):
     answer = []
     heap = []
     for p in points:

@@ -1,2 +1,2 @@
-    def findKthLargest(self, nums: List[int], k: int) -> int:
+    def findKthLargest(nums, k):
         return sorted(nums, reverse=True)[k-1]
