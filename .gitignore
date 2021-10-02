@@ -156,3 +156,5 @@ crashlytics-build.properties
 fabric.propertiesss
 
 .DS_Store
+
+test.js
