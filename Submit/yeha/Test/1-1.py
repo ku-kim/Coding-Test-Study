@@ -23,5 +23,5 @@ def solution(n, stations, w):
 
     if n >= start:
         answer += math.ceil((n - start + 1) / (w * 2 + 1))
-    
+        
     return answer
