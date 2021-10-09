@@ -13,23 +13,23 @@ for i in range(N):
 
 cands = list(combinations(chicken, M))
 
-#
-# result = []
-# for cand in cands:
-#     print("치킨집 조합", cand)
-#     answer = 0
-#     for h in house:
-#         list1 = []
-#         print("집", h)
-#         for x, y in cand:
-#             print("치킨집 좌표", (x, y))
-#             list1.append(abs(h[0]-x) + abs(h[1]-y))
-#             print("모든 치킨거리", list1)
-#         answer += min(list1) # 집 하나당 치킨거리 모두 더하면
-#         print("치킨집 조합 하나 당 도시의 치킨거리", answer)
-#     result.append(answer)
-# print(result)
-# print("가장 작은 도시의 치킨거리", min(result))
+
+result = []
+for cand in cands:
+    print("치킨집 조합", cand)
+    answer = 0
+    for h in house:
+        list1 = []
+        print("집", h)
+        for x, y in cand:
+            print("치킨집 좌표", (x, y))
+            list1.append(abs(h[0]-x) + abs(h[1]-y))
+            print("모든 치킨거리", list1)
+        answer += min(list1) # 집 하나당 치킨거리 모두 더하면
+        print("치킨집 조합 하나 당 도시의 치킨거리", answer)
+    result.append(answer)
+print(result)
+print("가장 작은 도시의 치킨거리", min(result))
 
 
 
