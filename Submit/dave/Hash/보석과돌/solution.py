@@ -7,5 +7,4 @@ class Solution:
         stones_cnt = Counter(stones)
         for jewel in jewels:
             ans += stones_cnt[jewel]
-
         return ans
