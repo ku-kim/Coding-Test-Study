@@ -74,7 +74,11 @@ mkdir Submit/[제출id]/Stack_queue/기능개발
 | `알고리즘` | `Greedy` | [쿠키 부여(leet)](https://leetcode.com/problems/assign-cookies/) | ⭐️ (Easy) | 
 | `알고리즘` | `Greedy` | [주식을 사고 팔기 가장 좋은 시점2(leet)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | ⭐️⭐️ (Medium) | 
 | `알고리즘` | `Greedy` | [주유소(leet)](https://leetcode.com/problems/gas-station/) | ⭐️⭐️ (Medium) | 
-| `알고리즘` | `DFS`, `BFS` | 미작성 |  | 
+| `알고리즘` | `DFS`, `BFS` | [연구소(boj)](https://www.acmicpc.net/problem/14502) | ⭐️⭐️ (55%) | 
+| `알고리즘` | `DFS`, `BFS` | [아기상어(boj)](https://www.acmicpc.net/problem/16236) | ⭐️⭐️⭐️ (40%) | 
+| `알고리즘` | `DFS`, `BFS` | [다리만들기(boj)](https://www.acmicpc.net/problem/2146) | ⭐️⭐️⭐️ (33%) | 
+| `알고리즘` | `DFS`, `BFS` | [적록색약(boj)](https://www.acmicpc.net/problem/10026) | ⭐️⭐️ (57%) | 
+| `알고리즘` | `DFS`, `BFS` | [안전영역(boj)](https://www.acmicpc.net/problem/2468) | ⭐️⭐️⭐️ (34%) | 
 | `알고리즘` | `Graph` | 미작성 |  | 
 | `알고리즘` | `BinarySearch` | 미작성 |  | 
 | `알고리즘` | `DP` | 미작성 |  | 
