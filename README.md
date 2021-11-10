@@ -79,14 +79,16 @@ mkdir Submit/[제출id]/Stack_queue/기능개발
 | `알고리즘` | `DFS`, `BFS` | [다리만들기(boj)](https://www.acmicpc.net/problem/2146) | ⭐️⭐️⭐️ (33%) | 
 | `알고리즘` | `DFS`, `BFS` | [적록색약(boj)](https://www.acmicpc.net/problem/10026) | ⭐️⭐️ (57%) | 
 | `알고리즘` | `DFS`, `BFS` | [안전영역(boj)](https://www.acmicpc.net/problem/2468) | ⭐️⭐️⭐️ (34%) | 
-| `알고리즘` | `Graph` | 미작성 |  | 
-| `알고리즘` | `BinarySearch` | 미작성 |  | 
 | `알고리즘` | `DP` | [1로 만들기](https://www.acmicpc.net/problem/1463) | ⭐️⭐️⭐️ (31%) | 
 | `알고리즘` | `DP` | [동전 1](https://www.acmicpc.net/problem/2293) | ⭐️⭐️ (44%) | 
 | `알고리즘` | `DP` | [동전 2](https://www.acmicpc.net/problem/2294) | ⭐️⭐️⭐️ (28%) | 
 | `알고리즘` | `DP` | [이친수](https://www.acmicpc.net/problem/2193) | ⭐️⭐️⭐ (38%) | 
 | `알고리즘` | `DP` | [이동하기](https://www.acmicpc.net/problem/11048) | ⭐️⭐️ (57%) | 
-
+| `알고리즘` | `BinarySearch` | [수 찾기](https://www.acmicpc.net/problem/1920) | ⭐️⭐️⭐️(30%) | 
+| `알고리즘` | `BinarySearch` | [중량제한](https://www.acmicpc.net/problem/1939) | ⭐️⭐️⭐️(24%) | 
+| `알고리즘` | `BinarySearch` | [피자굽기](https://www.acmicpc.net/problem/1756) | ⭐️⭐️⭐️(26%) | 
+| `알고리즘` | `BinarySearch` | [숫자카드](https://www.acmicpc.net/problem/10815) | ⭐️⭐️(48%) | 
+| `알고리즘` | `Graph` | 미작성 |  | 
 
 ## 설명
 ### 플랫폼 & 난이도
