@@ -88,7 +88,6 @@ mkdir Submit/[제출id]/Stack_queue/기능개발
 | `알고리즘` | `BinarySearch` | [중량제한](https://www.acmicpc.net/problem/1939) | ⭐️⭐️⭐️(24%) | 
 | `알고리즘` | `BinarySearch` | [피자굽기](https://www.acmicpc.net/problem/1756) | ⭐️⭐️⭐️(26%) | 
 | `알고리즘` | `BinarySearch` | [숫자카드](https://www.acmicpc.net/problem/10815) | ⭐️⭐️(48%) | 
-| `알고리즘` | `Graph` | 미작성 |  | 
 
 ## 설명
 ### 플랫폼 & 난이도
